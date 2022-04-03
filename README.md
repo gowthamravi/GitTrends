@@ -6,14 +6,14 @@ This project contains the Git trends with most star rate list.
 For sample i have used the "ios" as key.
 
 ## Contents
-###View
+### View
 1.GitTrendingViewController
 2.GitDetailViewController
 
-###Service
+### Service
 1. Alamofire
 
-###UnitTest
+### UnitTest
 1.GitTrendingPresenterTests
 2.GitTrendingModelTests
 
